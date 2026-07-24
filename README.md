@@ -2,7 +2,7 @@
 <h3 align="center">Yazılım Geliştirmeye Yeni Başlayan Bir Öğrenci</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedtiras&label=Profil+Goruntulenme+Sayisi&color=0e75b6&style=flat" alt="Profil Görüntülenme" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammedTiras&label=Profil+Goruntulenme+Sayisi&color=0e75b6&style=flat" alt="Profil Görüntülenme" />
 </p>
 
 ---
@@ -35,6 +35,18 @@ Yazılım dünyasına henüz adım attım ve her gün yeni şeyler öğrenmeye d
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🐍 GitHub Katkı Yılanı
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedTiras/MuhammedTiras/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedTiras/MuhammedTiras/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedTiras/MuhammedTiras/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
